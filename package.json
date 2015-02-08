@@ -1,6 +1,6 @@
 {
   "name": "hexo-deployer-appengine",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Hexo plugin for deploying to appengine, password protected optionally.",
   "author": "Doug Fritz",
   "license": "MIT",
@@ -8,6 +8,7 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
+  "keywords": ["hexo", "appengine"],
   "dependencies": {
     "hexo-fs": "^0.1.2",
     "hexo-util": "^0.1.3",
