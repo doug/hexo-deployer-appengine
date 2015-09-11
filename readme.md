@@ -1,8 +1,10 @@
 #hexo deployment to Google AppEngine
 
-You need to have google cloud sdk already installed.
+You need to have google cloud sdk already installed. 
 
 Download from: https://cloud.google.com/sdk/
+
+(Make sure you've included the python sdk - if not, you can get it from here: https://cloud.google.com/appengine/downloads#Google_App_Engine_SDK_for_Python)
 
 Or install: `curl https://cloud.google.com/sdk/ | bash`
 
